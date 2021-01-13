@@ -35,7 +35,7 @@
     "@hashicorp/react-use-cases": "^1.0.4",
     "@hashicorp/react-vertical-text-block-list": "^2.0.1",
     "babel-plugin-import-glob-array": "^0.2.0",
-    "highlight.js": "^9.18.1",
+    "highlight.js": "^10.4.1",
     "imagemin-mozjpeg": "^8.0.0",
     "imagemin-optipng": "^7.1.0",
     "imagemin-svgo": "^7.1.0",
